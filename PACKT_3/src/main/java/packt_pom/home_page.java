@@ -84,4 +84,7 @@ public class home_page {
 		readnowbutton.click();
 	}
 
+	public void clkonfullnavbar() {
+		fullnavbar.click();
+	}
 }
